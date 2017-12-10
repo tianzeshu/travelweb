@@ -1,0 +1,51 @@
+@charset "utf-8";
+#location{
+	border:solid 1px #CCC;
+	background-color:#F5F5F5;
+}
+#location .searchword{
+	border:solid 1px #CCC;
+	width:220px;
+}
+#message{
+	border:solid 1px #CCC;
+	background-color:#F5F5F5;
+	margin-top:10px;
+	padding-left:10px;
+}
+#postlist{
+	border:solid 1px #CCC;
+	background:#FFF url(../images/searchbarbg.gif) repeat-x;
+	margin-top:10px;
+}
+.xian{
+	/*border-bottom:solid 1px #CCC;*/
+}
+a.title{
+	color:#333;
+	text-decoration:none;
+}
+a.title:hover{
+	color:#F60;
+	text-decoration:underline;
+}
+.page{
+	font-size:11px;
+	border:solid 1px #ccc;
+	border-right:none;
+	text-align:center;
+	width:50px;
+	padding:0px;
+	height:18px;
+}
+.pagebtn{
+	font-size:12px;
+	color:#F60;
+	border:solid 1px #ccc;
+	border-left:none;
+	background-color:#DDD;
+	text-align:center;
+	padding:0px;
+	width:30px;
+	height:20px;
+}

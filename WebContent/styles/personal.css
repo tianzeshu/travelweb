@@ -1,0 +1,45 @@
+@charset "utf-8";
+#location{
+	border:solid 1px #CCC;
+	background-color:#F5F5F5;
+	
+}
+#location .searchword{
+	border:solid 1px #CCC;
+	width:220px;
+}
+
+#userarea{
+	border:solid 1px #CCC;
+	background-color:#EFEFEF;
+	margin-top:10px;
+}
+
+#userinfo{
+	
+}
+#userinfo td{
+	background-color:#FFF;
+}
+
+#userinfo .text01{
+	color:#999;
+	border-bottom:dotted 1px #CCC;
+}
+#userinfo .input01{
+	font-size:12px;
+	color:#00F;
+	padding:0px;
+	width:300px;
+	padding-top:10px;
+	border:none;
+	display:none;	
+}
+
+#userphoto{
+	border:solid 1px #CCC;
+}
+#userphoto .photo{
+	max-width:120px;
+	max-height:120px;
+}

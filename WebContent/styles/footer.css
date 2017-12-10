@@ -1,0 +1,13 @@
+@charset "utf-8";
+body{
+	background-color:#F0F0F0;
+}
+
+#footer{
+	border:solid 1px #d5d5d5;
+	background-color:#FFF;
+	margin-top:10px;
+}
+#footer td{
+	color:#666;
+}

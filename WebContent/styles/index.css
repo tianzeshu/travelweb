@@ -1,0 +1,35 @@
+@charset "utf-8";
+body{
+	background-color:#F0F0F0;
+}
+#searchbar{
+	border:solid 1px #CCC;
+	background:url(../images/searchbarbg.gif) repeat-x;
+}
+#searchbar .searchword{
+	border:solid 1px #CCC;
+	width:260px;
+	margin-left:5px;
+}
+
+.subtype{
+	border:solid 1px #CCC;
+	margin-bottom:10px;
+}
+.subtypetitle{
+	background:url(../images/subtypetitle.gif) repeat-x;
+	padding-left:8px;
+}
+.typeitem{
+	border-bottom:solid 1px #CCC;	
+}
+.typeitem td{
+	color:#999;
+}
+.pubbutton{
+	border:solid 1px #CCC;
+	width:80px;
+	height:22px;
+	color:#FFF;
+	background-color:#fe990f;
+}

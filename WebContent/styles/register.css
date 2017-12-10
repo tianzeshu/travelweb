@@ -1,0 +1,36 @@
+@charset "utf-8";
+#location{
+	border:solid 1px #CCC;
+	background-color:#F5F5F5;
+}
+
+.fs{
+	width:700px;
+	margin-top:10px;
+	padding-bottom:10px;
+}
+.fs legend{
+	color:#333;
+	width:100px;
+	margin:0px auto;
+}
+
+.input01{
+	width:180px;
+	border:solid 1px #CCC;
+	background-color:#FFF;
+}
+.input02{
+	width:180px;
+	border:solid 1px #F60;
+	background-color:#FCC;
+}
+.input03{
+	width:180px;
+	height:20px;
+	border:solid 1px #CCC;
+	background-color:#FFF;
+}
+.text01{
+	color:#999;
+}

@@ -1,0 +1,21 @@
+@charset "utf-8";
+#location{
+	border:solid 1px #CCC;
+	background-color:#F5F5F5;
+}
+
+#postpub{
+	border:solid 1px #CCC;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.button{
+	border: solid 1px #CCC;
+	background-color:#F90;
+	padding:5px 15px;
+}
+.input{
+	border:solid 1px #CCC;
+	width:750px;	
+}

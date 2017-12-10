@@ -1,0 +1,30 @@
+@charset "utf-8";
+#header{
+	background-color:#a7a7a7;
+}
+
+#header .logo{
+	background:url(../images/logo.gif) no-repeat 25px center;
+}
+#header .input01{
+	width:120px;
+	border:solid 1px #CCC;
+}
+#header .button01{
+	border:solid 1px #CCC;
+	width:48px;
+}
+#menubar{
+	background:url(../images/menubg.gif) repeat-x;s	
+}
+#menubar td{
+	color:#FFF;
+}
+#menubar .text01{
+	font-weight:bold;
+	padding-left:20px;
+}
+#menubar .button02{
+	border:solid 1px #CCC;
+	width:80px;
+}

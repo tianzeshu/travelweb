@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.teamsubmit {
+    background-color: #F5F5F5;
+    border: none;
+    color: black;
+    padding: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}

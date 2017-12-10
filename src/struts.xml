@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<constant name="struts.ui.theme" value="simple"></constant>
+    <package name="default" namespace="/" extends="struts-default">
+    	<interceptors>
+    		<interceptor-stack name="mystacks">
+	    		<interceptor-ref name="tokenSession"></interceptor-ref>
+	    		<interceptor-ref name="defaultStack"></interceptor-ref>
+    		</interceptor-stack>
+    	</interceptors>
+    </package>
+	<include file="struts-user.xml"></include>
+	<include file="struts-post.xml"></include>
+	<include file="struts-team.xml"></include>
+	<include file="struts-reply.xml"></include>
+</struts>
